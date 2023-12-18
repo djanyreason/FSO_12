@@ -1,0 +1,16 @@
+Script started on Sun Dec 17 22:16:20 2023
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                                                            [0m[27m[24m[Jdjanyreason@Johns-MacBook-Pro FSO_12 % [K[?2004hddocker container run -it ubuntu bash[?2004l
+[?2004h]0;root@64415e6643b9: /root@64415e6643b9:/# cd usr/
+[?2004l[?2004h]0;root@64415e6643b9: /usrroot@64415e6643b9:/usr# cd src/
+[?2004l[?2004h]0;root@64415e6643b9: /usr/srcroot@64415e6643b9:/usr/src# mkdir app
+[?2004l[?2004h]0;root@64415e6643b9: /usr/srcroot@64415e6643b9:/usr/src# ls
+[?2004l[0m[01;34mapp[0m
+[?2004h]0;root@64415e6643b9: /usr/srcroot@64415e6643b9:/usr/src# cd app
+[?2004l[?2004h]0;root@64415e6643b9: /usr/src/approot@64415e6643b9:/usr/src/app# touch index.js
+[?2004l[?2004h]0;root@64415e6643b9: /usr/src/approot@64415e6643b9:/usr/src/app# ls
+[?2004lindex.js
+[?2004h]0;root@64415e6643b9: /usr/src/approot@64415e6643b9:/usr/src/app# exit
+[?2004lexit
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                                                            [0m[27m[24m[Jdjanyreason@Johns-MacBook-Pro FSO_12 % [K[?2004heexit[?2004l
+
+Script done on Sun Dec 17 22:17:03 2023
