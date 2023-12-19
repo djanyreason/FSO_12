@@ -1,0 +1,8 @@
+version: '12.6' # So named for the exercise number
+
+services:
+  todo-backend:
+    image: todo-backend
+    build: .
+    ports:
+      - 3000:3000
