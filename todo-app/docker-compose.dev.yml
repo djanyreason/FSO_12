@@ -1,6 +1,8 @@
 services:
   todo-app:
     image: todo-front-dev
+    environment:
+      - REACT_APP_BACKEND_URL=http://localhost:8080/api/
     build:
       context: ./todo-frontend
       dockerfile: dev.Dockerfile

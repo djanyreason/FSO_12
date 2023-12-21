@@ -1,6 +1,6 @@
 FROM node:16 AS build-stage
 
-ENV REACT_APP_BACKEND_URL=http://localhost:3000
+ENV REACT_APP_BACKEND_URL=http://localhost:3003
 ENV CI=TRUE
 
 WORKDIR /usr/src/app
